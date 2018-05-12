@@ -1,0 +1,31 @@
+_repo: Life-of-Thomas-PaineWritten-Purposely-to-Bind-with-his-Writings_40208
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carlile, Richard
+    aliases:
+    - Deist
+    - Philanthropos
+    - Carlisle, Richard
+    birthdate: 1790
+    deathdate: 1843
+    gutenberg_agent_id: '39431'
+    url: http://www.gutenberg.org/2009/agents/39431
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Carlile
+description: ''
+gutenberg_issued: '2012-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JC'
+- !lcsh 'Paine, Thomas, 1737-1809'
+title: "Life of Thomas Paine\r\nWritten Purposely to Bind with His Writings"
+url: http://www.gutenberg.org/ebooks/40208
